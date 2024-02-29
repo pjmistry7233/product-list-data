@@ -11,6 +11,7 @@
         "availability": "available"
     },
     {
+        "id": 2,
         "title": "iPhone 15 Pro",
         "price": 99.99,
         "description": "Elevating mobile photography and performance, the iPhone 15 Pro combines professional-grade features with stunning aesthetics, delivering a premium experience for tech enthusiasts and professionals alike.",
@@ -21,6 +22,7 @@
         "availability": "sold"
     },
     {
+        "id": 3,
         "title": "iPhone 15 Pro Max",
         "price": 149.99,
         "description": "Pushing the boundaries of smartphone innovation, the iPhone 15 Pro Max boasts a larger display, enhanced battery life, and unparalleled camera capabilities, making it the ultimate choice for power users and content creators.",
@@ -31,6 +33,7 @@
         "availability": "available"
     },
     {
+        "id": 4,
         "title": "iPad",
         "price": 99.99,
         "description": "The iPad is Apple's iconic tablet device known for its sleek design, intuitive interface, and versatile functionality, ideal for entertainment, productivity, and creativity on the go.",
@@ -41,6 +44,7 @@
         "availability": "available"
     },
     {
+        "id": 5,
         "title": "iPad Air",
         "price": 149.99,
         "description": "The iPad Air combines powerful performance with a sleek design, offering a lightweight yet robust tablet experience ideal for both productivity and entertainment needs.",
@@ -51,6 +55,7 @@
         "availability": "sold"
     },
     {
+        "id": 6,
         "title": "iPad Pro",
         "price": 199.99,
         "description": "The iPad Pro sets a new standard for performance and versatility, featuring cutting-edge technology, stunning displays, and powerful processors tailored for professional workflows and demanding tasks, making it the ultimate productivity and creativity tool.",
@@ -61,6 +66,7 @@
         "availability": "available"
     },
     {
+        "id": 7,
         "title": "MacBook Air",
         "price": 149.99,
         "description": "The iPad is Apple's iconic tablet device known for its sleek design, intuitive interface, and versatile functionality, ideal for entertainment, productivity, and creativity on the go.",
@@ -71,6 +77,7 @@
         "availability": "available"
     },
     {
+        "id": 8,
         "title": "MacBook Pro",
         "price": 199.99,
         "description": "The iPad Air combines powerful performance with a sleek design, offering a lightweight yet robust tablet experience ideal for both productivity and entertainment needs.",
@@ -81,6 +88,7 @@
         "availability": "sold"
     },
     {
+        "id": 9,
         "title": "Mac Studio",
         "price": 249.99,
         "description": "The iPad Pro sets a new standard for performance and versatility, featuring cutting-edge technology, stunning displays, and powerful processors tailored for professional workflows and demanding tasks, making it the ultimate productivity and creativity tool.",
