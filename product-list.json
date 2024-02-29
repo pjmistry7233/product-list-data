@@ -5,7 +5,7 @@
         "price": 49.99,
         "description": "The latest flagship smartphone from Apple, featuring cutting-edge technology, sleek design, and advanced performance for everyday use.",
         "images": [
-            "product_a_image1.jpg"
+            "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg"
         ],
         "category": "Mobile",
         "availability": "available"
@@ -16,7 +16,7 @@
         "price": 99.99,
         "description": "Elevating mobile photography and performance, the iPhone 15 Pro combines professional-grade features with stunning aesthetics, delivering a premium experience for tech enthusiasts and professionals alike.",
         "images": [
-            "product_b_image1.jpg"
+            "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-bluetitanium?wid=5120&hei=2880&fmt=p-jpg"
         ],
         "category": "Mobile",
         "availability": "sold"
@@ -27,7 +27,7 @@
         "price": 149.99,
         "description": "Pushing the boundaries of smartphone innovation, the iPhone 15 Pro Max boasts a larger display, enhanced battery life, and unparalleled camera capabilities, making it the ultimate choice for power users and content creators.",
         "images": [
-            "product_c_image1.jpg"
+            "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg"
         ],
         "category": "Mobile",
         "availability": "available"
