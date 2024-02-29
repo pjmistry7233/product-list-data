@@ -4,9 +4,7 @@
         "title": "iPhone 15",
         "price": 49.99,
         "description": "The latest flagship smartphone from Apple, featuring cutting-edge technology, sleek design, and advanced performance for everyday use.",
-        "images": [
-            "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg"
-        ],
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg",
         "category": "Mobile",
         "availability": "available"
     },
@@ -24,9 +22,7 @@
         "title": "iPhone 15 Pro Max",
         "price": 149.99,
         "description": "Pushing the boundaries of smartphone innovation, the iPhone 15 Pro Max boasts a larger display, enhanced battery life, and unparalleled camera capabilities, making it the ultimate choice for power users and content creators.",
-        "images": [
-            "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg"
-        ],
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg",
         "category": "Mobile",
         "availability": "available"
     },
@@ -35,9 +31,7 @@
         "title": "iPad",
         "price": 99.99,
         "description": "The iPad is Apple's iconic tablet device known for its sleek design, intuitive interface, and versatile functionality, ideal for entertainment, productivity, and creativity on the go.",
-        "images": [
-            "product_a_image1.jpg"
-        ],
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-10th-gen-finish-select-202212-blue?wid=5120&hei=2880&fmt=p-jpg",
         "category": "Tablet",
         "availability": "available"
     },
@@ -46,9 +40,7 @@
         "title": "iPad Air",
         "price": 149.99,
         "description": "The iPad Air combines powerful performance with a sleek design, offering a lightweight yet robust tablet experience ideal for both productivity and entertainment needs.",
-        "images": [
-            "product_b_image1.jpg"
-        ],
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue?wid=5120&hei=2880&fmt=p-jpg",
         "category": "Tablet",
         "availability": "sold"
     },
@@ -57,9 +49,7 @@
         "title": "iPad Pro",
         "price": 199.99,
         "description": "The iPad Pro sets a new standard for performance and versatility, featuring cutting-edge technology, stunning displays, and powerful processors tailored for professional workflows and demanding tasks, making it the ultimate productivity and creativity tool.",
-        "images": [
-            "product_c_image1.jpg"
-        ],
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-finish-select-202212-12-9inch-space-gray?wid=5120&hei=2880&fmt=jpeg",
         "category": "Tablet",
         "availability": "available"
     },
