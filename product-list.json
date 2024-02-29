@@ -58,9 +58,7 @@
         "title": "MacBook Air",
         "price": 149.99,
         "description": "The iPad is Apple's iconic tablet device known for its sleek design, intuitive interface, and versatile functionality, ideal for entertainment, productivity, and creativity on the go.",
-        "images": [
-            "product_a_image1.jpg"
-        ],
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mba15-midnight-config-202306?wid=840&hei=508&fmt=jpeg",
         "category": "Computer",
         "availability": "available"
     },
@@ -69,9 +67,7 @@
         "title": "MacBook Pro",
         "price": 199.99,
         "description": "The iPad Air combines powerful performance with a sleek design, offering a lightweight yet robust tablet experience ideal for both productivity and entertainment needs.",
-        "images": [
-            "product_b_image1.jpg"
-        ],
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-16-spaceblack-cto-hero-202310?wid=884&hei=540&fmt=jpeg",
         "category": "Computer",
         "availability": "sold"
     },
@@ -80,9 +76,7 @@
         "title": "Mac Studio",
         "price": 249.99,
         "description": "The iPad Pro sets a new standard for performance and versatility, featuring cutting-edge technology, stunning displays, and powerful processors tailored for professional workflows and demanding tasks, making it the ultimate productivity and creativity tool.",
-        "images": [
-            "product_c_image1.jpg"
-        ],
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-studio-hero-202306?wid=834&hei=408&fmt=jpeg",
         "category": "Computer",
         "availability": "available"
     }
