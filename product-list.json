@@ -15,9 +15,7 @@
         "title": "iPhone 15 Pro",
         "price": 99.99,
         "description": "Elevating mobile photography and performance, the iPhone 15 Pro combines professional-grade features with stunning aesthetics, delivering a premium experience for tech enthusiasts and professionals alike.",
-        "images": [
-            "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-bluetitanium?wid=5120&hei=2880&fmt=p-jpg"
-        ],
+        "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-bluetitanium?wid=5120&hei=2880&fmt=p-jpg",
         "category": "Mobile",
         "availability": "sold"
     },
