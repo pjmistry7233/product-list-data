@@ -57,7 +57,7 @@
         "id": 7,
         "title": "MacBook Air",
         "price": 149.99,
-        "description": "The iPad is Apple's iconic tablet device known for its sleek design, intuitive interface, and versatile functionality, ideal for entertainment, productivity, and creativity on the go.",
+        "description": "Sleek and lightweight, the MacBook Air is designed for effortless portability without compromising performance, boasting a stunning Retina display and long-lasting battery life.",
         "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mba15-midnight-config-202306?wid=840&hei=508&fmt=jpeg",
         "category": "Computer",
         "availability": "Available"
@@ -66,7 +66,7 @@
         "id": 8,
         "title": "MacBook Pro",
         "price": 199.99,
-        "description": "The iPad Air combines powerful performance with a sleek design, offering a lightweight yet robust tablet experience ideal for both productivity and entertainment needs.",
+        "description": "Power meets precision in the MacBook Pro, featuring cutting-edge performance, immersive Retina display, and advanced thermal architecture for demanding professionals seeking unparalleled productivity.",
         "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-16-spaceblack-cto-hero-202310?wid=884&hei=540&fmt=jpeg",
         "category": "Computer",
         "availability": "Sold"
@@ -75,7 +75,7 @@
         "id": 9,
         "title": "Mac Studio",
         "price": 249.99,
-        "description": "The iPad Pro sets a new standard for performance and versatility, featuring cutting-edge technology, stunning displays, and powerful processors tailored for professional workflows and demanding tasks, making it the ultimate productivity and creativity tool.",
+        "description": "Engineered for creativity and performance, Mac Studio redefines desktop computing with its M1 Max or M1 Ultra chip options, stunning 27-inch 5K Retina display, and versatile connectivity options, empowering professionals to push the boundaries of their craft.",
         "images": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-studio-hero-202306?wid=834&hei=408&fmt=jpeg",
         "category": "Computer",
         "availability": "Available"
