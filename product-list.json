@@ -4,8 +4,7 @@
         "price": 49.99,
         "description": "The latest flagship smartphone from Apple, featuring cutting-edge technology, sleek design, and advanced performance for everyday use.",
         "images": [
-            "product_a_image1.jpg",
-            "product_a_image2.jpg"
+            "product_a_image1.jpg"
         ],
         "category": "Mobile",
         "availability": "available"
@@ -35,8 +34,7 @@
         "price": 99.99,
         "description": "The iPad is Apple's iconic tablet device known for its sleek design, intuitive interface, and versatile functionality, ideal for entertainment, productivity, and creativity on the go.",
         "images": [
-            "product_a_image1.jpg",
-            "product_a_image2.jpg"
+            "product_a_image1.jpg"
         ],
         "category": "Tablet",
         "availability": "available"
@@ -66,8 +64,7 @@
         "price": 149.99,
         "description": "The iPad is Apple's iconic tablet device known for its sleek design, intuitive interface, and versatile functionality, ideal for entertainment, productivity, and creativity on the go.",
         "images": [
-            "product_a_image1.jpg",
-            "product_a_image2.jpg"
+            "product_a_image1.jpg"
         ],
         "category": "Computer",
         "availability": "available"
